@@ -380,7 +380,7 @@ class AppDatabase extends _$AppDatabase {
       'أغ',
       'سبت',
       'أكت',
-      'نون',
+      'نوف',
       'ديس',
     ];
 

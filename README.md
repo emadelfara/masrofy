@@ -83,18 +83,21 @@
 
 ## 📱 صور التطبيق
 
-سيتم إضافة صور التطبيق لاحقًا.
+![Masrofy Hero](assets/images/screenshots/hero.png)
 
 | Splash | Home | Transactions |
-| --- | --- | --- |
-| Coming Soon | Coming Soon | Coming Soon |
+| ------ | ---- | ------------ |
+| ![Splash](assets/images/screenshots/splash.png) | ![Home](assets/images/screenshots/home.png) | ![Transactions](assets/images/screenshots/transactions.png) |
 
 | Statistics | Goals | Settings |
-| --- | --- | --- |
-| Coming Soon | Coming Soon | Coming Soon |
+| ---------- | ----- | -------- |
+| ![Statistics](assets/images/screenshots/statistics.png) | ![Goals](assets/images/screenshots/goals.png) | ![Settings](assets/images/screenshots/settings.png) |
+
+| Onboarding | Nickname |
+| ---------- | -------- |
+| ![Onboarding](assets/images/screenshots/onboarding.png) | ![Nickname](assets/images/screenshots/nickname.png) |
 
 ---
-
 ### 🗺️ خارطة الطريق
 
 #### الإصدار الأول (V1)
@@ -201,18 +204,21 @@ To run the project locally:
 
 ## 📱 Screenshots
 
-Screenshots will be added later.
+![Masrofy Hero](assets/images/screenshots/hero.png)
 
 | Splash | Home | Transactions |
-| --- | --- | --- |
-| Coming Soon | Coming Soon | Coming Soon |
+| ------ | ---- | ------------ |
+| ![Splash](assets/images/screenshots/splash.png) | ![Home](assets/images/screenshots/home.png) | ![Transactions](assets/images/screenshots/transactions.png) |
 
 | Statistics | Goals | Settings |
-| --- | --- | --- |
-| Coming Soon | Coming Soon | Coming Soon |
+| ---------- | ----- | -------- |
+| ![Statistics](assets/images/screenshots/statistics.png) | ![Goals](assets/images/screenshots/goals.png) | ![Settings](assets/images/screenshots/settings.png) |
+
+| Onboarding | Nickname |
+| ---------- | -------- |
+| ![Onboarding](assets/images/screenshots/onboarding.png) | ![Nickname](assets/images/screenshots/nickname.png) |
 
 ---
-
 ## 🗺️ Roadmap
 
 ### Version 1
